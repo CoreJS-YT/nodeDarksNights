@@ -1,0 +1,32 @@
+{
+  "name": "node-darks",
+  "displayName": "node-darks",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nodes Darks Nights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nodes Darks Nights-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "CoreJS",
+    "email": "coppermxyt2011@gmail.com",
+    "url": "https://corejs-yt.github.io"
+  },
+  "repository": {
+    "url": "https://github.com/CoreJS-YT/nodeDarksNights.git",
+    "type": "git"
+  },
+  "publisher": "corejs"
+}
